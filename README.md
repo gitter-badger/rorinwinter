@@ -1,4 +1,6 @@
 # rorinwinter
+
+[![Join the chat at https://gitter.im/WinterMuting/rorinwinter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/WinterMuting/rorinwinter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Absurd kills Winter
 This place is
   a storage with some additional functionalities, with the most wholepointing one:
